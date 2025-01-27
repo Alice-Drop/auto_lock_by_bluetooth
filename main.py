@@ -58,7 +58,7 @@ if __name__ == "__main__":
             BLUETOOTH_DEVICE_NAME = DEFAULT_CONFIG["Bluetooth_Device_Name"]
             DETECTION_GAP = DEFAULT_CONFIG["Detection_Gap"]
 
-    target_device_name = BLUETOOTH_DEVICE_NAME  # 替换为你的蓝牙耳机名称
+    target_device_name = BLUETOOTH_DEVICE_NAME  # 蓝牙耳机名称
     was_locked = False
     enable = False  # 一开始不确定有没有耳机，先这样，等第一次检测
 
