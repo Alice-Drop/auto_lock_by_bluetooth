@@ -1,0 +1,1 @@
+{"Bluetooth_Device_Name": "EarFun Air Pro 4", "Detection_Gap": 30}
